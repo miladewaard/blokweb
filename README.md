@@ -41,11 +41,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Sneakerjagers is een website waar je verschillende soorten sneakers kunt vinden en waar de nieuwst sneakers worden gereleased.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Sneakerzoekmachine 
   <img src="readme-images/startscherm.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/startscherm2.png" width="375px" alt="omschrijving van de pagina">
+  Op het startscherm is er steeds een andere afbeelding/filmpje.
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Releases
   <img src="readme-images/tweede-scherm.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
