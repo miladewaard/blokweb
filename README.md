@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  Voor mijn opdracht ga ik een website verbeteren die op responsive of zoals mijn docent Sanne het zegt: "Bling bling" vlak een extra touch krijgt. Ik heb gekozen voor de website Sneakerajgers, dit is een website waar je verschillende soorten sneakers kunt vinden en waar de nieuwst sneakers worden gereleased. 
+  Voor mijn opdracht ga ik een website verbeteren die op responsive vlak of zoals mijn docent Sanne het zegt: "Bling bling" vlak een extra touch geven. Ik heb gekozen voor de website Sneakerajgers, dit is een website waar je verschillende soorten sneakers kunt vinden en waar de nieuwst sneakers worden gereleased. 
   Maar let op! De website moet voor iedereen teogangelijk zijn en screenreaders moeten belangrijke content kunnen mee lezen.
 
   <a href= "https://www.sneakerjagers.com">Website Sneakerjagers</a>
