@@ -36,14 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Voor mijn opdracht ga ik een website verbeteren die op responsive of zoals mijn docent Sanne het zegt: "Bling bling" vlak een extra touch krijgt. Ik heb gekozen voor de website Sneakerajgers, dit is een website waar je verschillende soorten sneakers kunt vinden en waar de nieuwst sneakers worden gereleased. 
+  Maar let op! De website moet voor iedereen teogangelijk zijn en screenreaders moeten belangrijke content kunnen mee lezen.
 
-  Sneakerjagers is een website waar je verschillende soorten sneakers kunt vinden en waar de nieuwst sneakers worden gereleased.
+  <a href= "https://www.sneakerjagers.com">Website Sneakerjagers</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Sneakerzoekmachine 
   <img src="readme-images/startscherm.png" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/startscherm2.png" width="375px" alt="omschrijving van de pagina">
+ 
   Op het startscherm is er steeds een andere afbeelding/filmpje.
 
   #### Screenshot(s) van de tweede pagina (small screen):
@@ -58,9 +59,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 1e werkgroep</summary>
+  In de eerste week hebben we de toegankelijkheid van de gekozen website getest. Hoe is het om een berperking te hebben? Kunnen zei welde website gebruiken zonder afhankelijk te zijn van een ander?
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
@@ -70,6 +73,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Met de TAB knop ga je van links naar rechts de webpagina door. Het kost een hoop tijd omdat je langs alle koppen, butons en links gaat. Gelukkig is er aan het begin een optie om de toolbar te skippen, maar dat is het dan ook wel.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
