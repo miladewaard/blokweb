@@ -94,17 +94,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Breakdownschets (week 1)
 
 <details>
-  <summary>Voor het opbouwen van de website Sneakerjagers is het handig om een overzicht te hebben van welke HTML-elementem er gebruikt worden en om na te denken welke onderdelen er voor jou van belang zijn. Hiervoor moesten we aan de hand van een breakdownschets laten zien welke onderdelen weggelaten kan worden en welke HTML-elementen van te pas komen. </summary>
+  <summary>Voor het opbouwen van de website Sneakerjagers is het handig om een overzicht te hebben van welke HTML-elementem er gebruikt worden en om na te denken welke onderdelen er voor jou van belang zijn. Hiervoor moesten we aan de hand van een breakdownschets laten zien welke onderdelen weggelaten kan worden en welke HTML-elementen van te pas komen.</summary>
 
   ### de hele pagina: 
   <img src="readme-images/breakdownschets-sneakerjagers.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/menu.sneakerjagers" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
+  <img src="readme-images/menu.sneakerjagers.png" width="375px" alt="breakdown van een dynamisch deel">
 </details>
 
 
