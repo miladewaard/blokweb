@@ -100,7 +100,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/breakdownschets-sneakerjagers.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/menu.sneakerjagers.png" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/menu-sneakerjagers.png" width="375px" alt="breakdown van een dynamisch deel">
 </details>
 
 
@@ -115,17 +115,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-  Voor mij is het starten met code een grote drempel, aangezien ik vrijwel "alles" ben vergeten van twee jaar geleden. Eerlijk gezegd had ik ook nooit verwacht dat ik weer code zou schrijven. Maar goed, de lessen vind ik best leuk, op sociaal vlak dam haha. Nee even serieus er wordt ook heel goed uitleg gegeven, het is gewoon een kwestie van oefenen, oefenen, oefenen. 
+  Voor mij is het starten met code een grote drempel, aangezien ik vrijwel "alles" ben vergeten van twee jaar geleden. Eerlijk gezegd had ik ook nooit verwacht dat ik weer code zou schrijven. Maar goed, de lessen vind ik best leuk, op sociaal vlak dan haha. Nee even serieus er wordt ook heel goed uitleg gegeven, het is gewoon een kwestie van oefenen, oefenen, oefenen. 
   Daarnaast heb ik hulp gevraagd aan één van de student-assistenten. Het eerste wat ik namelijk dacht: Ik moet eerst de basis goed hebben, dus daar heb ik mij op gefocust. En stap voor stap kom ik hopelijk ergens.
+
+  Hier een begin van mijn header.
+  <img src="readme-images/eerste-header-code.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | student 1      | student 2          | student 3    | Mila (ik)      |
+  | ---            | ---                | ---          | TO DO            |
+  | dit bespreken  | en dit             | en ik dit    | - Basisstructuur   |
+  | en dat ook nog | dit als er tijd is | nog een punt | - Inhoud verzamelen (afbeeldingen, iconen, fonts)|
+  | ...            | ...                | ...          | - Bronnen niet vergeten
+  |                |                    |              | - CCS'en
+  |                |                    |              | - 
 
 
   ### Verslag van meeting
