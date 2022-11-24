@@ -115,6 +115,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Voor mij is het starten met code een grote drempel, aangezien ik vrijwel "alles" ben vergeten van twee jaar geleden. Eerlijk gezegd had ik ook nooit verwacht dat ik weer code zou schrijven. Maar goed, de lessen vind ik best leuk, op sociaal vlak dam haha. Nee even serieus er wordt ook heel goed uitleg gegeven, het is gewoon een kwestie van oefenen, oefenen, oefenen. 
+  Daarnaast heb ik hulp gevraagd aan één van de student-assistenten. Het eerste wat ik namelijk dacht: Ik moet eerst de basis goed hebben, dus daar heb ik mij op gefocust. En stap voor stap kom ik hopelijk ergens.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
