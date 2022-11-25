@@ -124,7 +124,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | Mila (ik)      |
+  | student 1      | student 2          | student 3    |
+   Mila (ik)      |
   | ---            | ---                | ---          | TO DO            |
   | dit bespreken  | en dit             | en ik dit    | - Basisstructuur   |
   | en dat ook nog | dit als er tijd is | nog een punt | - Inhoud verzamelen (afbeeldingen, iconen, fonts)|
