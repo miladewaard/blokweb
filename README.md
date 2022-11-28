@@ -124,24 +124,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    |
-   Mila (ik)      |
-  | ---            | ---                | ---          | TO DO            |
-  | dit bespreken  | en dit             | en ik dit    | - Basisstructuur   |
-  | en dat ook nog | dit als er tijd is | nog een punt | - Inhoud verzamelen (afbeeldingen, iconen, fonts)|
-  | ...            | ...                | ...          | - Bronnen niet vergeten
-  |                |                    |              | - CCS'en
-  |                |                    |              | - 
+  Fee
+  - 
+  Steven
+  - Start maken in CSS.
+  - Oefenen met positioneren.
+  - Weten wanneer ik flex-box of grid moet gebruiken.
+  Mila
+  - Basisstructuur
+  - Inhoud verzamelen
+  - Bronnen niet vergeten
+  - CCS'en
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  Hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  - Er is naar de HTML code gekeken. 
+  - Voornamelijk handigheden geleerd over hoe je bijvoorbeeld de taal aanpast zodat de screenreader het juist uitspreekt. 
 </details>
 
 
